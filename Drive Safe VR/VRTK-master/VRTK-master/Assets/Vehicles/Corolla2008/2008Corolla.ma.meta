@@ -45,6 +45,70 @@ ModelImporter:
     100078: WiperR
     100080: WndScr_B
     100082: WndScr_F
+    100084: group1
+    100086: polySurface1
+    100088: polySurface10
+    100090: polySurface11
+    100092: polySurface12
+    100094: polySurface13
+    100096: polySurface13 1
+    100098: polySurface14
+    100100: polySurface15
+    100102: polySurface16
+    100104: polySurface17
+    100106: polySurface18
+    100108: polySurface19
+    100110: polySurface2
+    100112: polySurface20
+    100114: polySurface22
+    100116: polySurface23
+    100118: polySurface24
+    100120: polySurface25
+    100122: polySurface26
+    100124: polySurface27
+    100126: polySurface28
+    100128: polySurface29
+    100130: polySurface3
+    100132: polySurface3 1
+    100134: polySurface4
+    100136: polySurface6
+    100138: polySurface7
+    100140: polySurface8
+    100142: polySurface9
+    100144: Radiator 1
+    100146: Radiator1
+    100148: transform1
+    100150: transform10
+    100152: transform11
+    100154: transform12
+    100156: transform13
+    100158: transform14
+    100160: transform15
+    100162: transform16
+    100164: transform17
+    100166: transform18
+    100168: transform19
+    100170: transform2
+    100172: transform20
+    100174: transform21
+    100176: transform22
+    100178: transform23
+    100180: transform24
+    100182: transform25
+    100184: transform26
+    100186: transform27
+    100188: transform28
+    100190: transform29
+    100192: transform3
+    100194: transform30
+    100196: transform31
+    100198: transform4
+    100200: transform5
+    100202: transform6
+    100204: transform7
+    100206: transform8
+    100208: transform9
+    100210: pCube1
     400000: //RootNode
     400002: Base
     400004: Body
@@ -87,6 +151,70 @@ ModelImporter:
     400078: WiperR
     400080: WndScr_B
     400082: WndScr_F
+    400084: group1
+    400086: polySurface1
+    400088: polySurface10
+    400090: polySurface11
+    400092: polySurface12
+    400094: polySurface13
+    400096: polySurface13 1
+    400098: polySurface14
+    400100: polySurface15
+    400102: polySurface16
+    400104: polySurface17
+    400106: polySurface18
+    400108: polySurface19
+    400110: polySurface2
+    400112: polySurface20
+    400114: polySurface22
+    400116: polySurface23
+    400118: polySurface24
+    400120: polySurface25
+    400122: polySurface26
+    400124: polySurface27
+    400126: polySurface28
+    400128: polySurface29
+    400130: polySurface3
+    400132: polySurface3 1
+    400134: polySurface4
+    400136: polySurface6
+    400138: polySurface7
+    400140: polySurface8
+    400142: polySurface9
+    400144: Radiator 1
+    400146: Radiator1
+    400148: transform1
+    400150: transform10
+    400152: transform11
+    400154: transform12
+    400156: transform13
+    400158: transform14
+    400160: transform15
+    400162: transform16
+    400164: transform17
+    400166: transform18
+    400168: transform19
+    400170: transform2
+    400172: transform20
+    400174: transform21
+    400176: transform22
+    400178: transform23
+    400180: transform24
+    400182: transform25
+    400184: transform26
+    400186: transform27
+    400188: transform28
+    400190: transform29
+    400192: transform3
+    400194: transform30
+    400196: transform31
+    400198: transform4
+    400200: transform5
+    400202: transform6
+    400204: transform7
+    400206: transform8
+    400208: transform9
+    400210: pCube1
     2100000: CarPaint1
     2100002: LeatherBlack1
     2100004: Window1
@@ -121,6 +249,7 @@ ModelImporter:
     2100062: Chrome3
     2100064: HeadLight4
     2100066: HLBumpHorz3
+    2100068: lambert1
     2300000: Base
     2300002: Body
     2300004: Bonnet
@@ -162,6 +291,13 @@ ModelImporter:
     2300076: WiperR
     2300078: WndScr_B
     2300080: WndScr_F
+    2300082: polySurface1
+    2300084: polySurface2
+    2300086: polySurface23
+    2300088: polySurface27
+    2300090: polySurface7
+    2300092: Radiator1
+    2300094: pCube1
     3300000: Base
     3300002: Body
     3300004: Bonnet
@@ -203,6 +339,13 @@ ModelImporter:
     3300076: WiperR
     3300078: WndScr_B
     3300080: WndScr_F
+    3300082: polySurface1
+    3300084: polySurface2
+    3300086: polySurface23
+    3300088: polySurface27
+    3300090: polySurface7
+    3300092: Radiator1
+    3300094: pCube1
     4300000: Body
     4300002: WhArch_F
     4300004: WhArch_B
@@ -244,6 +387,13 @@ ModelImporter:
     4300076: Rim_BR
     4300078: Tyre_BR
     4300080: HL_Glass
+    4300082: polySurface23
+    4300084: polySurface27
+    4300086: polySurface1
+    4300088: polySurface2
+    4300090: polySurface7
+    4300092: Radiator1
+    4300094: pCube1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -275,7 +425,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.005
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -294,7 +444,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
